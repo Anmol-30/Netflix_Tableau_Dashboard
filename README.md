@@ -3,7 +3,7 @@
 <img src="https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png" title="Netflix" align="center"/>
 
 
-# Introduction 💡
+# Introduction 💡💡
 Netflix, the dominant force in global media and video streaming, captures the attention of over 250 million subscribers worldwide with its vast library featuring more than 10000 movies and TV shows. Understanding the intricate dynamics of Netflix's content portfolio is crucial in today's digital entertainment era.
 The Netflix dashboard created using Tableau provides valuable insights and uncovers trends that can shape content approaches and improve viewer interaction.
 
@@ -25,7 +25,9 @@ The aim of the project is to utilize Tableau to create a dynamic dashboard for v
 
 # Pre-requisites
 Tool used 🛠️ - Tableau
+
 Data set used - https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 Reference used - DataScience RoadMap
 
 
