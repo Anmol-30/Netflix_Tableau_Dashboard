@@ -24,7 +24,7 @@ The aim of the project is to utilize Tableau to create a dynamic dashboard for v
 
 
 # Pre-requisites
-Tool used 🛠️ - Tableau
+Tools used 🛠️ - Tableau, Kaggle
 
 Data set used - https://www.kaggle.com/datasets/shivamb/netflix-shows
 
